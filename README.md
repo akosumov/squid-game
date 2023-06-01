@@ -1,5 +1,6 @@
-<h1>Project: <a href="https://squid-game-iota.vercel.app/">
-squid-game</a></h1>
+<h1>Project: squid-game</h1>
+<h1><a href="https://squid-game-iota.vercel.app/">Project link</a></h1>
+
 
 ---
 
